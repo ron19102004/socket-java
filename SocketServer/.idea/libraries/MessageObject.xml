@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MessageObject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/ron/socketserver/libs/MessageObject.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
